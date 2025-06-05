@@ -1,0 +1,25 @@
+{
+    "name": "NLSC PHYSICS NOTES offline",
+    "short_name": "NLSC Physics",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "lightgreen",
+    "theme_color": "lightgreen",
+    "installable": "true",
+    "related_applications": [],
+    "service_worker": {
+        "src": "sw.js",
+    },
+    "icons": [
+        {
+            "src": "favicon.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "favicon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
